@@ -3,3 +3,4 @@ eat pizza
 eat burger
 
 thirsty == have water
+drink soda as well.
