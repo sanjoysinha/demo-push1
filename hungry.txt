@@ -1,3 +1,5 @@
 eat samosa
 eat pizza
 eat burger
+
+thirsty == have water
