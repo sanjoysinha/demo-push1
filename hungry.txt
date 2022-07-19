@@ -3,3 +3,6 @@ eat pizza
 eat burger
 
 eta fries
+
+thirsty == have water
+drink soda as well.
